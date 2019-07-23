@@ -19,9 +19,9 @@ You can download latest version from the Github: Download
 ## Quick start
 To use in your project, just import `vue-form-repeater` and install into Vue.<br><br>
 ```
-import vue_form_repeater from 'vue-form-repeater'
+import vue-form-repeater from 'vue-form-repeater'
 
-Vue.use(vue_form_repeater)
+Vue.use(vue-form-repeater)
 ```
 
 then you should just add any input you want in `slot`. For Example :<br><br>
