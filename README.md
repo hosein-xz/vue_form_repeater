@@ -26,7 +26,7 @@ Vue.use(vue_form_repeater)
 
 then you should just add any input you want in `slot`. For Example :<br><br>
 ```
-<vue_form_repeater>
+<vue-form-repeater>
     <div class="col">
       <div class="form_group">
          <div class="form_label">
@@ -37,7 +37,7 @@ then you should just add any input you want in `slot`. For Example :<br><br>
          </div>
       </div>
     </div>
-</vue_form_repeater>
+</vue-form-repeater>
 
 ```
 
