@@ -17,9 +17,9 @@ npm i vue_form_repeater
 You can download latest version from the Github: Download
 
 ## Quick start
-To use in your project, just import `vue_form_repeater` and install into Vue.<br><br>
+To use in your project, just import `vue-form-repeater` and install into Vue.<br><br>
 ```
-import vue_form_repeater from 'vue_form_repeater'
+import vue_form_repeater from 'vue-form-repeater'
 
 Vue.use(vue_form_repeater)
 ```
