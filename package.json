@@ -1,0 +1,20 @@
+{
+ "name": "vue_form_repeater",
+ "version": "1.0.0",
+ "description": "",
+ "main": "./dist/index.js",
+ "scripts": {
+  "dev": "vue serve VueFormRepeater.vue",
+  "build": "bili --name index --plugin vue --vue.css false"
+ },
+ "files": [
+  "dist/*"
+ ],
+ "author": "hosein-xz",
+ "license": "MIT",
+ "devDependencies": {
+  "bili": "^4.8.1",
+  "rollup-plugin-vue": "^5.0.1",
+  "vue-template-compiler": "^2.6.10"
+ }
+}
