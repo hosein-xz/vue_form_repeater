@@ -1,11 +1,17 @@
-# vue_form_repeater
 
+<h1 align="center">Vue Form Repeater</h1>
+<p align="center">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/hosein-xz/vue_form_repeater.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/hosein-xz/vue_form_repeater.svg">
+</p>
 
 ## Install
 
 ### NPM
 Installing with npm is recommended and it simply works :<br><br>
-`npm i vue_form_repeater`
+```
+npm i vue_form_repeater
+```
 
 ### Download
 You can download latest version from the Github: Download
