@@ -17,11 +17,11 @@ npm i vue_form_repeater
 You can download latest version from the Github: Download
 
 ## Quick start
-To use in your project, just import `vue-form-repeater` and install into Vue.<br><br>
+To use in your project, just import `vue_form_repeater` and install into Vue.<br><br>
 ```
-import vue-form-repeater from 'vue-form-repeater'
+import vfr from 'vue-form-repeater';
 
-Vue.use(vue-form-repeater)
+Vue.use(vfr);
 ```
 
 then you should just add any input you want in `slot`. For Example :<br><br>
