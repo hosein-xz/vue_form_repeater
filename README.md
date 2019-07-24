@@ -19,7 +19,7 @@ You can download latest version from the Github: Download
 ## Quick start
 To use in your project, just import `vue_form_repeater` and install into Vue.<br><br>
 ```
-import vfr from 'vue-form-repeater';
+import vfr from 'vue_form_repeater';
 
 Vue.use(vfr);
 ```
