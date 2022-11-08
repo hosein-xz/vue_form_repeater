@@ -14,7 +14,7 @@
  "license": "MIT",
  "devDependencies": {
   "bili": "^4.8.1",
-  "rollup-plugin-vue": "^5.0.1",
+  "rollup-plugin-vue": "^6.0.0",
   "vue-template-compiler": "^2.6.10"
  }
 }
